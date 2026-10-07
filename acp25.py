@@ -71,4 +71,4 @@ print("===== FINAL STUDENT SUBJECT RECORDS =====")
 for student_id, details in student_data.items():
     print(student_id, ":", details)
  
-print("==========================================")
+print("==========================================")c:\
